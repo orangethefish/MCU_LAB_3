@@ -1,0 +1,3 @@
+../Core/Src/traffic.c:10:6:setColor1	16	static
+../Core/Src/traffic.c:33:6:setColor2	16	static
+../Core/Src/traffic.c:56:6:blinkLed1	16	static
